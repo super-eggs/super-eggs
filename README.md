@@ -1,4 +1,4 @@
-<h1> <img height="30"  src="./hello.gif"/> Hey! Nice to see you.</h1>
+<h1> <img height="30"  src="https://cdn.jsdelivr.net/gh/super-eggs/super-eggs/hello.gif"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm ZhiYuan-Guo, currently living in <b>Beijing, China</b>. </p>
 
@@ -19,6 +19,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-142a52?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-3E6E93?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/super-eggs/super-eggs/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <h3>Open source projects</h3>
 <table>
@@ -62,6 +64,9 @@
   <li><a href="https://blog.supereggs.cn/posts/tech/etcd_installation_use/"><b>etcd 安装及使用</b></a><br/><i>Installation and use of etcd</i></li>
   <li><a href="https://blog.supereggs.cn/posts/tech/golang_append_concurrent_security/"><b>[Go] append() 并发安全问题</b></a><br/><i>[Go] append() Concurrency Security Issues</i></li>
 </ul>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
 <a href="mailto:super-eggs@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-super--eggs%4088.com-brightgreen?logo=gmail"></a>
