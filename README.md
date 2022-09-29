@@ -100,19 +100,6 @@
   </tr>
 </table>
 
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/super-eggs/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/super-eggs/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-</table>
-
-
 <h3>Where to find me</h3>
 <a href="mailto:super-eggs@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-super--eggs%4088.com-brightgreen?logo=gmail"></a>
 <a href="https://blog.supereggs.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.supereggs.com-brightgreen?logo=Internet%20Explorer"></a>
