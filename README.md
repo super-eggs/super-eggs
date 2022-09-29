@@ -58,6 +58,29 @@
   </tbody>
 </table>
 
+
+# 🚀 Actions
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=super-eggs&theme=dark&hide_border=true" />
+</div>
+<br>
+
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=super-eggs&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=super-eggs&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-eggs&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://blog.supereggs.cn/posts/tech/terraform_loop_splicing_two_sets_variables/"><b>[Terraform] 对资源名称使用多个循环(循环拼接两组变量)</b></a><br/><i>[Terraform] Use multiple loops for resource names.</i></li>
@@ -67,6 +90,28 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=super-eggs&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- Dynamic Heatmap -->
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/super-eggs/Heatmap/OUT_FOLDER/github.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/super-eggs/Heatmap/OUT_FOLDER/wakatime.svg" />
+    </td>
+  </tr>
+</table>
+
 
 <h3>Where to find me</h3>
 <a href="mailto:super-eggs@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-super--eggs%4088.com-brightgreen?logo=gmail"></a>
