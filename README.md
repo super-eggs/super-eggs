@@ -144,7 +144,7 @@ Mac                      6 hrs 15 mins       ███████████�
 
 <h3>Where to find me</h3>
 <a href="mailto:super-eggs@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-super--eggs%4088.com-brightgreen?logo=gmail"></a>
-<a href="https://blog.supereggs.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.supereggs.com-brightgreen?logo=Internet%20Explorer"></a>
+<a href="https://www.supereggs.cn"><img alt="Blog" src="https://img.shields.io/badge/Blog-www.supereggs.cn-brightgreen?logo=Internet%20Explorer"></a>
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/super-eggs/count.svg" />
