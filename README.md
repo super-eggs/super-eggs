@@ -116,17 +116,19 @@ Sunday                   770 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              ██████████████████████░░░   87.05 % 
+Blade Template           1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/09/2023 00:55:01 UTC
+ Last Updated on 17/09/2023 01:00:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph -->
