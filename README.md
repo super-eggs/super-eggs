@@ -83,9 +83,9 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://blog.supereggs.cn/posts/tech/terraform_loop_splicing_two_sets_variables/"><b>[Terraform] 对资源名称使用多个循环(循环拼接两组变量)</b></a><br/><i>[Terraform] Use multiple loops for resource names.</i></li>
-  <li><a href="https://blog.supereggs.cn/posts/tech/etcd_installation_use/"><b>etcd 安装及使用</b></a><br/><i>Installation and use of etcd</i></li>
-  <li><a href="https://blog.supereggs.cn/posts/tech/golang_append_concurrent_security/"><b>[Go] append() 并发安全问题</b></a><br/><i>[Go] append() Concurrency Security Issues</i></li>
+  <li><a href="https://www.supereggs.cn/posts/tech/terraform_loop_splicing_two_sets_variables/"><b>[Terraform] 对资源名称使用多个循环(循环拼接两组变量)</b></a><br/><i>[Terraform] Use multiple loops for resource names.</i></li>
+  <li><a href="https://www.supereggs.cn/posts/tech/etcd_installation_use/"><b>etcd 安装及使用</b></a><br/><i>Installation and use of etcd</i></li>
+  <li><a href="https://www.supereggs.cn/posts/tech/golang_append_concurrent_security/"><b>[Go] append() 并发安全问题</b></a><br/><i>[Go] append() Concurrency Security Issues</i></li>
 </ul>
 
 <!--START_SECTION:waka-->
