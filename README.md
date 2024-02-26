@@ -129,15 +129,6 @@ No Activity Tracked This Week
  Last Updated on 26/02/2024 00:57:42 UTC
 <!--END_SECTION:waka-->
 
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=super-eggs&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 <h3>Where to find me</h3>
 <a href="mailto:super-eggs@88.com"><img alt="Email" src="https://img.shields.io/badge/Email-super--eggs%4088.com-brightgreen?logo=gmail"></a>
 <a href="https://www.supereggs.cn"><img alt="Blog" src="https://img.shields.io/badge/Blog-www.supereggs.cn-brightgreen?logo=Internet%20Explorer"></a>
